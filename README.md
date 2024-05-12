@@ -31,7 +31,7 @@ Consider a university database system designed to manage information about stude
 
 ## ER Diagram :
 
-![STUDENT ER DIAGRAM](https://github.com/Subalakshmisuresh/DBMS_EX_01/assets/121957896/03569275-3c1d-46cb-b2c2-0e74d4c7be91)
+![image](https://github.com/Vanisha0609/DBMS_EX_01/assets/119104009/f51bc740-2148-4a6e-9885-f26b799350d2)
 
 
 ## Explanation :
@@ -120,8 +120,7 @@ The Hospital Management System is a tailored operational model for healthcare in
 
 ## ER Diagram:
 
-![PATIENT ER DIAGRAM](https://github.com/Subalakshmisuresh/DBMS_EX_01/assets/121957896/54d70390-bb8b-44cc-93e9-62fddc4c4585)
-
+![image](https://github.com/Vanisha0609/DBMS_EX_01/assets/119104009/4d4dbbaa-7778-4907-ad69-1b12f5e2477a)
 
 
 - **Entities:**
