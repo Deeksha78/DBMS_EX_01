@@ -1,5 +1,8 @@
-# DBMS_EX_01
-# Date : 20/02/24
+# EX NO:01- ER Diagram
+
+# Date : 
+### REGISTER NUMBER:  212222040031
+
 # AIM: 
 To analyze the problem and come with the entities in it and identify the constraints in creating the database.
 
@@ -31,7 +34,8 @@ Consider a university database system designed to manage information about stude
 
 ## ER Diagram :
 
-![image](https://github.com/Vanisha0609/DBMS_EX_01/assets/119104009/f51bc740-2148-4a6e-9885-f26b799350d2)
+![image](https://github.com/Vanisha0609/DBMS_EX_01/assets/128116204/bbe1f8d8-f615-4d40-ae2a-a3f3d0c04366)
+
 
 
 ## Explanation :
@@ -120,8 +124,7 @@ The Hospital Management System is a tailored operational model for healthcare in
 
 ## ER Diagram:
 
-![image](https://github.com/Vanisha0609/DBMS_EX_01/assets/119104009/4d4dbbaa-7778-4907-ad69-1b12f5e2477a)
-
+![image](https://github.com/Vanisha0609/DBMS_EX_01/assets/128116204/a1e5f91a-5a83-4041-9252-8fe5ca598b59)
 
 - **Entities:**
   - Patient
